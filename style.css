@@ -7,3 +7,20 @@ body {
   width: 960px;
   margin: 20px auto;
 }
+img{
+	width: 200px;
+}
+/*commenting code*/
+h1, h2, h3, h4{
+	color: green;
+	font-weight: 600;
+	border: 5px solid purple;
+}
+#summary{
+	color: red;
+	word-spacing: 15;
+}
+#unicorn{
+	color: purple;
+	outline: 3px solid orange;
+}
