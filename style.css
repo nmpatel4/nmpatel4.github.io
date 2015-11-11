@@ -11,6 +11,7 @@ img{
 	width: 200px;
 }
 /*commenting code*/
+
 h1, h2{
 	color: green;
 	font-weight: 600;
@@ -26,12 +27,12 @@ h3, h4{
 	box-shadow: 1px 1px 10px 2px;
 }
 #summary{
-	color: red;
+	color: blue;
 	word-spacing: 15;
 }
 #unicorn{
-	color: purple;
-	outline: 3px solid yellow;
+	color: orange;
+	/*   outline: 3px solid black;   */
 }
 .blue{
 	color: blue;
@@ -39,3 +40,7 @@ h3, h4{
 .orange{
 	color: orange;
 }
+.name {
+	font-family: 'Bangers', cursive;
+}
+
