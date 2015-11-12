@@ -9,18 +9,17 @@ body {
   margin: 20px auto;
 }
 img{
-	width: 200px;
+	width: 300px;
 }
 /*commenting code*/
 
-h1, h2{
-	color: green;
+h2{
+	color: orange;
 	font-weight: 600;
-	border: 5px solid purple;
-	box-shadow: 1px 1px 10px 2px;
+	/*border: 5px solid purple; */
+	/*box-shadow: 1px 1px 10px 2px; */
 }
 
-/*commenting code*/
 h3, h4{
 	color: gray;
 	font-weight: 600;
@@ -44,4 +43,9 @@ h3, h4{
 .name {
 	font-family: 'Bangers', cursive;
 }
-
+#pic{
+	margin-bottom: 24px;
+}
+#pic-top{
+	margin-top: 24px;
+}
