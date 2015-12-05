@@ -1,6 +1,6 @@
 
 img{
-  width: 250px;
+  width: 200px;
 }
 
 iframe{
@@ -13,4 +13,10 @@ iframe{
 
 #blue{
   color: blue;
+}
+#font{
+	font-family: 'Courgette', cursive;
+}
+#font2{
+	font-family: 'Permanent Marker', cursive;
 }
